@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "console-stamp": "^0.2.9",
+    "bip39": "^3.0.4",
+    "cardano-crypto.js": "^6.0.0",
+    "pact-lang-api": "^4.2.0",
+    "minimist": "^1.2.5"
+  }
+}
